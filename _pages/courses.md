@@ -17,10 +17,9 @@ Typical disclaimer that opinions are mine and do not represent the opinions of m
 - 15-740: Computer Architecture
 - 15-697: Graduate Reading and Research
 
-Extracurriculars: TA for 15-445 (Database Systems), applying to Ph.D. programs and NSF GRFP 
+Extracurriculars: TA for 15-445 (Database Systems), applying to Ph.D. programs and NSF GRFP
 
 ![](/assets/img/serviceberries.jpg)
 -->
 
 ### Reflection
-
