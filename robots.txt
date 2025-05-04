@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://BraydenKO.github.io/sitemap.xml
+Sitemap: https://braydenko.github.io/sitemap.xml
