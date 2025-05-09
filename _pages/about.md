@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ἀεὶ ὁ θεὸς ὁ μέγας γεωμετρεῖ - The Great God always geometrizes
 
 profile:
   align: right
@@ -24,7 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-To write later...
+I'm studying Computer Science at Carnegie Mellon University (CMU) and minoring in Neural Computation. 
+Currently I am doing research using computational models and AI to study human and animal behavior.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
