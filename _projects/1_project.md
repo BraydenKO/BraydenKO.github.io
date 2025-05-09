@@ -2,7 +2,7 @@
 layout: page
 title: Lexicon of Rabbinic Greek
 description: A lexicon of words used in Hebrew and Rabbinic lit. that were derived from Greek.
-img: 
+img:
 importance: 1
 category: fun
 related_publications: true
