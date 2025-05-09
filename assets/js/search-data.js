@@ -11,10 +11,17 @@ ninja.data = [{
     },
   },{id: "nav-cmu-courses",
           title: "cmu courses",
-          description: "reviews of each of my nine semesters at Carnegie Mellon University.",
+          description: "reviews of each of my semesters at Carnegie Mellon University.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/courses/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -395,9 +402,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-lexicon-of-rabbinic-greek",
+          title: 'Lexicon of Rabbinic Greek',
+          description: "A lexicon of words used in Hebrew and Rabbinic lit. that were derived from Greek.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
@@ -460,13 +467,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/brayden-kohler-906563268", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
