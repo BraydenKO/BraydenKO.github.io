@@ -2,7 +2,7 @@
 layout: page
 permalink: /courses/
 title: cmu courses
-description: reviews of each of my nine semesters at Carnegie Mellon University.
+description: reviews of each of my semesters at Carnegie Mellon University.
 nav: true
 nav_order: 3
 ---
