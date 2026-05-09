@@ -414,6 +414,11 @@ ninja.data = [{
           description: "A lexicon of words used in Hebrew and Rabbinic lit. that were derived from Greek.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-metamer-finder",
+          title: 'Metamer Finder',
+          description: "A tool to easily and quickly find metamer pairs in AI models",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/metamer_project/";
             },},{
         id: 'social-email',
         title: 'email',
