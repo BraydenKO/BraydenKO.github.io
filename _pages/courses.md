@@ -11,6 +11,18 @@ My page is inspired by [Abigale Kim's](https://abigalekim.github.io/courses/) co
 
 Typical disclaimer that opinions are mine and do not represent the opinions of my employer/college.
 
+## Fall 2026
+
+11-324 Human Language for AI (w/ Lori Levin)  
+15-451 Alg. Design & Analysis (w/ Danny Sleator & Jason Li)  
+85-213 Human Info Processing & AI (w/ John Anderson)  
+85-426 Reverse Engineering the Mind (w/ Jenelle Feather)  
+88-230 Human Intelligence & Human Stupidity (w/ Daniel Oppenheimer)
+
+### Reflection
+
+Coming after this semester
+
 ## Spring 2026
 
 03-363 System's Neuroscience (w/ Eric Yttri)  
@@ -22,7 +34,13 @@ Typical disclaimer that opinions are mine and do not represent the opinions of m
 
 ### Reflection
 
-Coming in May 2026
+- Dr. Eric Yttri, orof of **03-363**, is amazing. I've worked with him and find him very thoughtful and a great teacher. In this class, it can at times be hard to determine exactly when you need to know specific details and when you need to just understand the general idea of things. I personally found his exams tough because I was at times required to both recall specific details and integrate information from different units even. But that toughness is exactly what you want to be pushed to get a good understand of systems neuroscience. I found the weekly assignment to write a short quiz to be really smart. It allows us to put low effort into it if we must, for whatever reason, but if you do wish to get the most out of the class and put effort into it, you push yourself to think about the content not as a student, but as a teacher, and I found this to support my learning really well.
+- **10-301** was interesting because of the sharp dichotomy between the teaching of the profs. I found Dr. Matt Gormley to be very engaging and clear, Dr. Pat Virtue at times, while I can tell means very well, seemed to struggle at times. I believe he thinks about things very visually which makes it a bit hard for him to convert his ideas in smooth clear language. He also would repeat a point many times in attempt to make sure the students understand, but sometimes it was either excessive and time consuming or just dancing around the idea with analogies when a student just wants to get into it already. The course itself I found to be structured really well, the policies very thought out, and the content engaging and relevant. I would recommend this class even if you're familia with ML to make sure you get a strong foundation.
+- The dichotomy between the teaching of the profs was even greater in **15-210** than 10-301. Dr. Daniel Anderson is a fantastic teacher. Up there for one of the best teachers I've had at CMU. Dr. Danny Sleater, however, took a long time for me to warm up to. I struggled many times to understand what he was saying and found the lecture notes far more useful. He appeared unorganized at many times too. I will say, however, nearing the end of the semester, I found it much easier to understand and learn from him. Maybe he changed, maybe my familiarity with the content helped, that is unclear. His class too can at times be funny. So if you begin taking a course with him and find it very rough, give it time. I also really enjoyed getting to learn and use c++ in my assignments. I recommend doing the HWs in c++ if you're not already familiar with it because it's a good new thing to learn, but also _for loops_ :)
+- **15-494** was a really fun class. The exams/quizzes seemed to just test my ability to memorize the content from the class and whether I actually paid attention. They never seemed to be too hard but made sure I actually took the lectures seriously and showed up. The highlight of this class is getting to work with the cute robots in the AI makerspace and eventually making your own project with them. If you want to get a class where you actually build something real, cool, and interacts with you physically without it being too much work, this is a great fun class.
+- I took **33-104** because my friends were taking it, and I cannot stress how important it likely is to take a lab class with your friends. In this class I did struggle quite a bit on the lab reports compared to peers in other sections. It seemed like maybe we were graded pretty strictly compared to the other sections, but it was all fine in the end. Not a class I really enjoyed, had a lot of just writing reports, but it was nice to get it out of the way.
+- **98-317** was $\Large\textbf{\color{red}{H}\color{orange}{Y}\color{green}{P}\color{blue}{E}}$ <b><span style="color:#FF007F">H</span><span style="color:#FF7F00">Y</span><span style="color:#7FFF00">P</span><span style="color:#00FFFF">E</span></b> <span style="background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8b00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 32px; font-weight: 900; letter-spacing: 2px;">HYPE</span>  
+  Loved this class so much I decided to teach it next semester! Absolutely amazing student teachers. They're funny, engaging, and clear. I cannot give them enough compliments. I strongly recommend taking this class, even if you dont know much about math and CS (you will still be fine if you pay attention). You will have a great time and learn a lot.
 
 ## Fall 2025
 
