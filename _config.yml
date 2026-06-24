@@ -201,6 +201,7 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
+  - .well-known/discord
 
 # Plug-ins
 plugins:
