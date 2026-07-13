@@ -13,11 +13,11 @@ Typical disclaimer that opinions are mine and do not represent the opinions of m
 
 ## Fall 2026
 
-11-324 Human Language for AI (w/ Lori Levin)  
-15-451 Alg. Design & Analysis (w/ Danny Sleator & Jason Li)  
-85-213 Human Info Processing & AI (w/ John Anderson)  
-85-426 Reverse Engineering the Mind (w/ Jenelle Feather)  
-88-230 Human Intelligence & Human Stupidity (w/ Daniel Oppenheimer)
+11-324 Human Language for AI (w/ [Lori Levin](https://www.cs.cmu.edu/~lsl/))  
+15-451 Alg. Design & Analysis (w/ [Danny Sleator](https://www.cs.cmu.edu/~sleator/) & [Jason Li](https://q3r.github.io/))  
+85-213 Human Info Processing & AI (w/ [John Anderson](https://www.cmu.edu/dietrich/psychology/directory/core-training-faculty/anderson-john.html))  
+85-426 Reverse Engineering the Mind (w/ [Mike Tarr](https://sites.google.com/andrew.cmu.edu/tarrlab/))  
+88-230 Human Intelligence & Human Stupidity (w/ [Daniel Oppenheimer](https://www.cmu.edu/dietrich/sds/people/faculty/daniel-oppenheimer.html))
 
 ### Reflection
 
@@ -25,12 +25,12 @@ Coming after this semester
 
 ## Spring 2026
 
-03-363 System's Neuroscience (w/ Eric Yttri)  
-10-301 Into to ML (w/ Matt Gormley & Pat Virtue)  
-15-210 Parallel & Seq Data Structure & Algorithms (w/ Daniel Anderson & Danny Sleator)  
-15-494 Cognitive Robitics (w/ Dave Touretzky)  
-33-104 Experimental Physics (w/ Sufei Shi)  
-98-317 Hype for Types (w/ Samson Rozansky & Shira Rubin)
+03-363 System's Neuroscience (w/ [Eric Yttri](https://labs.bio.cmu.edu/yttri/))  
+10-301 Into to ML (w/ [Matt Gormley](https://www.cs.cmu.edu/~mgormley/) & [Pat Virtue](https://www.cs.cmu.edu/~pvirtue/))  
+15-210 Parallel & Seq Data Structure & Algorithms (w/ [Daniel Anderson](https://danielanderson.net/) & [Danny Sleator](https://www.cs.cmu.edu/~sleator/))  
+15-494 Cognitive Robitics (w/ [Dave Touretzky](https://www.cs.cmu.edu/~dst/))  
+33-104 Experimental Physics (w/ [Sufei Shi](https://sufei-shi.weebly.com/))  
+98-317 Hype for Types (w/ [Samson Rozansky](https://samson-rozansky.github.io/) & [Shira Rubin](https://rxshira.github.io/))
 
 ### Reflection
 
@@ -43,27 +43,27 @@ Coming after this semester
 
 ## Fall 2025
 
-15-213 Intro to Computer Systems (w/ Phillip Gibbons & Brian Railing)  
-15-259 Probability & Computing (w/ Feras Saad & Weina Wang)  
-17-363 Programming Language Pragmatics (w/ Jonathan Aldrich)  
-76-270 Writing for the Professions (w/ Alan Kohler)  
-85-170 Foundations of Brain and Behavior (w/ Jonathan Tsay)
+15-213 Intro to Computer Systems (w/ [Phillip Gibbons](https://www.cs.cmu.edu/~gibbons/) & [Brian Railing](https://www.cs.cmu.edu/~bpr/))  
+15-259 Probability & Computing (w/ [Feras Saad](https://www.cs.cmu.edu/~fsaad/) & [Weina Wang](https://www.cs.cmu.edu/~weinaw/))  
+17-363 Programming Language Pragmatics (w/ [Jonathan Aldrich](https://www.cs.cmu.edu/~aldrich/))  
+76-270 Writing for the Professions (w/ [Alan Kohler](https://www.linkedin.com/in/alankohler/))  
+85-170 Foundations of Brain and Behavior (w/ [Jonathan Tsay](https://www.cmu.edu/ni/people/faculty/jonathan-tsay))
 
 ### Reflection
 
 - **15-213** is a great class that really surveys different aspects of systems so you're bound to eventually find something you like. I personally enjoyed _datalab_ and _bomblab_, but each person finds their favorite. Be prepared to write organized, modular, documented code as you're working from the beginning or else expect to spend many hours debugging your code. I found most labs can actually be done much faster than expected if you're organized and methodological.
 - **15-259** was pretty tough at first. The class assumes you have a good handle of all prerequisite knowledge, so make sure to brush up on calculus and series. Also, the textbook by Mor is such an asset, make sure you use it and read every chapter assigned to each class even if you showed up to lecture that day. I wish there was more of an emphasis on the "computing" part of PnC, but I still realy enjoyed this class.
 - **17-363** was a really nice class. The professor is such a nice guy, I felt bad for missing some of his lectures. The content switches back and forth between formal proofs and practically implementing a working compiler. I learned a lot in this class and didn't feel like it was too intense as long as you pay attention in lecture.
-- **76-270** was a chill but still pretty educational class. The professor is really an amazing teacher, kind, and takes feedback from students seriously. Try to enjoy this class first and foremost, it's not supposed to eat much of your time.
+- **76-270** was a chill but still pretty educational class. The professor is really an amazing teacher, kind, and takes feedback from students seriously. Try to enjoy this class first and foremost, it's not supposed to eat much of your time. Note as of 2026: Seems like Dr. Kohler is now a former teacher, he will be missed.
 - **85-170** FOBB was so amazing!!! JT is an amazing teacher and he really cares for each one of his students. He uses demos to help solidify understanding but also memory of the topics. A good strategy for this course is to show up every lecture, give your full attention (don't take heavy notes), and ask questions. Ask clarifying questions when needed but also ask more complicated questions about implications of what you learned. This is a really fun and fascinating course, so try to make the most of it, especially since it's not much work at all.
 
 ## Spring 2025
 
-21-266 Vector Calc for CS (w/ Clive Newstead)  
-15-251 Great Ideas in Theoretical CS (w/ Anil Ada and Feras Saad)  
-15-150 Principles of Functional Programming (w/ Dilsun Kaynar)  
-15-386 Neural Computation (w/ Tai-Sing Lee)  
-79-281 Intro to Religion (w/ Alexandra Garnhart-Bushakra)
+21-266 Vector Calc for CS (w/ [Clive Newstead](https://www.math.cmu.edu/~cnewstea/))  
+15-251 Great Ideas in Theoretical CS (w/ [Anil Ada](https://www.pandanotes.org/servers/anil/) and [Feras Saad](https://www.cs.cmu.edu/~fsaad/))  
+15-150 Principles of Functional Programming (w/ [Dilsun Kaynar](https://www.cs.cmu.edu/~dilsun/))  
+15-386 Neural Computation (w/ [Tai-Sing Lee](https://www.cnbc.cmu.edu/~tai/))  
+79-281 Intro to Religion (w/ [Alexandra Garnhart-Bushakra](https://www.cmu.edu/dietrich/history/people/staff/alexandra.html))
 
 ### Reflection
 
@@ -75,11 +75,11 @@ Coming after this semester
 
 ## Fall 2024
 
-21-241 Matrices and Linear Transformations (w/ Jonathan Simone)  
-15-151 Concepts / Mathematical Foundations for CS (w/ John Mackey)  
-15-122 Principles of Imperative Computation (w/ Anne Kohlbrenner)  
-76-101 Interp. & Argument (w/ Chad Szalkowski-Ference)  
-07-131 Great Practical Ideas in CS
+21-241 Matrices and Linear Transformations (w/ [Jonathan Simone](https://www.math.cmu.edu/~jsimone/))  
+15-151 Concepts / Mathematical Foundations for CS (w/ [John Mackey](https://csd.cmu.edu/people/faculty/john-mackey))  
+15-122 Principles of Imperative Computation (w/ [Anne Kohlbrenner](https://www.cs.cmu.edu/~akohlbre/))  
+76-101 Interp. & Argument (w/ [Chad Szalkowski-Ference](https://www.cmu.edu/dietrich/english/about-us/faculty/bios/chad-szalkowski-ference.html))  
+07-131 Great Practical Ideas in CS  
 07-128 Freshman Immigration.
 
 <!-- - 10-714: Deep Learning Systems
