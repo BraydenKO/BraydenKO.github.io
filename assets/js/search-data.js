@@ -438,7 +438,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/brayden-kohler-906563268", "_blank");
+          window.open("https://www.linkedin.com/in/brayden-kohler", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=yyfPakkAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
