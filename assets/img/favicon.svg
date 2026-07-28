@@ -35,16 +35,10 @@
      id="title">Brain icon</title>
   <desc
      id="desc">A brain emoji on a full circular dark background.</desc>
-  <circle
-     cx="32"
-     cy="32"
-     r="32"
-     fill="#201b2d"
-     id="circle1" />
   <text
      x="32"
      y="49"
-     font-size="38"
+     font-size="45"
      text-anchor="middle"
      id="text1"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-anchor:middle">🧠</text>
